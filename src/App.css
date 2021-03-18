@@ -1,0 +1,10 @@
+body {
+    background: #ecf0f1;
+    margin-bottom: 3em;
+  background-image: url("../src//img/p.jpg");   
+  height: 100%;
+ 
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
